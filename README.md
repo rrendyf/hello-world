@@ -1,2 +1,5 @@
 # hello-world
-halo sayang
+
+Hi Manusia!
+
+Selamat datang di sini.
